@@ -24,6 +24,13 @@ alto_sax =
   r4 e2 cs4 |
   a2 a8( cs8) d4 |
   cs4 gs'4 a2 |
+  a,8 gs8 fs4 fs'4 d4 |
+  e2 a,8 cs8 d4 |
+  r8 d8 cs8 b8 a4 r4 |
+  r4 gs'2 fs8 gs8 |
+  a4 e4 e4 d4~ |
+  d8 fs8 e8 d8 cs2 |
+  r4 gs'2 fs8 gs8 |
 }
 
 \score {
